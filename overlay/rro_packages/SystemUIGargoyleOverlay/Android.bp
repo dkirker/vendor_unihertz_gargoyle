@@ -1,0 +1,8 @@
+runtime_resource_overlay {
+    name: "SystemUIGargoyleOverlay",
+    sdk_version: "current",
+    aaptflags: ["--keep-raw-values"],
+    certificate: "platform",
+    resource_dirs: ["res"],
+    product_specific: true,
+}

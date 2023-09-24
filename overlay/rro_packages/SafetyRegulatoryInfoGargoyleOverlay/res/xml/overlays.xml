@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay>
+    <item target="raw/image1" value="@raw/image1"/>
+    <item target="raw/image2" value="@raw/image2"/>
+    <item target="raw/image3" value="@raw/image3"/>
+    <item target="raw/regulatory_content" value="@raw/regulatory_content"/>
+</overlay>
